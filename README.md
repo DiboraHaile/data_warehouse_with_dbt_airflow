@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-![workflow](https://github.com/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark/actions/workflows/blank.yml/badge.svg)
+![workflow](https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/actions/workflows/blank.yml/badge.svg)
 
 <br />
 <p align="center">
@@ -132,19 +132,19 @@ Project Link: [https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow.gi
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [10 Academy](https://www.10academy.org/)
-* [IsraelAbebe](https://github.com/IsraelAbebe/An-Amharic-News-Text-classification-Dataset)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-url]: https://github.com/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark/stargazers
-[issues-shield]: https://img.shields.io/github/issues/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark.svg?style=for-the-badge
-[issues-url]: https://github.com/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark/issues
+[stars-url]: https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DiboraHaile/data_warehouse_with_dbt_airflow.svg?style=for-the-badge
+[issues-url]: https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/issues
 [license-shield]: https://img.shields.io/github/license/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark.svg?style=for-the-badge
-[license-url]: https://github.com/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark/blob/main/LICENSE
-[contributors-shield]: https://img.shields.io/github/contributors/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark.svg?style=for-the-badge
+[license-url]: https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/DiboraHaile/data_warehouse_with_dbt_airflow.svg?style=for-the-badge
 [contributors-url]: https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/contributors
 [forks-shield]: https://img.shields.io/github/forks/DiboraHaile/data_warehouse_with_dbt_airflow/.svg?style=for-the-badge
 [forks-url]: https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/network/members
-[stars-shield]: https://img.shields.io/github/stars/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/DiboraHaile/data_warehouse_with_dbt_airflow.svg?style=for-the-badge
 [stars-url]: https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/stargazers
 [product-screenshot]: images/screenshot.png
