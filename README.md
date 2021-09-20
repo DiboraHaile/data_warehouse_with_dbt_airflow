@@ -144,7 +144,7 @@ Project Link: [https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow.gi
 [contributors-shield]: https://img.shields.io/github/contributors/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark.svg?style=for-the-badge
 [contributors-url]: https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/contributors
 [forks-shield]: https://img.shields.io/github/forks/DiboraHaile/data_warehouse_with_dbt_airflow/.svg?style=for-the-badge
-[forks-url]: https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/members
+[forks-url]: https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/network/members
 [stars-shield]: https://img.shields.io/github/stars/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark.svg?style=for-the-badge
 [stars-url]: https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/stargazers
 [product-screenshot]: images/screenshot.png
