@@ -4,10 +4,13 @@
 [![MIT License][license-shield]][license-url]
 
 
+
+
+
 <br />
 <p align="center">
   <a href="https://github.com/week9-Benkart/Speech-to-text-data-collection-with-Kafka-Airflow-and-Spark">
-    <img src="https://www.nicepng.com/png/full/838-8385423_implementing-speech-to-text-in-susi-ios-speech.png" alt="Logo" width="80" height="80">
+    <img src="https://www.clipartmax.com/png/small/67-675661_data-warehouse-icon-png.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Implementing ELT using DBT, AirFlow and Redash</h3>
