@@ -3,7 +3,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-![workflow](https://github.com/DiboraHaile/data_warehouse_with_dbt_airflow/actions/workflows/blank.yml/badge.svg)
 
 <br />
 <p align="center">
