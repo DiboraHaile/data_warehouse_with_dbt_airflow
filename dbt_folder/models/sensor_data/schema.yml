@@ -1,7 +1,13 @@
 version: 2
 
 sources:
-  - name: sensor_db
+  - name: sensor_data
+    # description: 'sample db'
+    # database: Sensor_raw_db
+    schema: Sensor_raw_db
     tables:
-      - name: student_data
+      - name: traffic_info_table
+      - name: station_info_table
+      - name: Lane_4_table
+
 
