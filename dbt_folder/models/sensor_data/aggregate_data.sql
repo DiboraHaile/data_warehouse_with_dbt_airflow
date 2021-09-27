@@ -1,9 +1,14 @@
-with student_data as (
-    select * from {{ source ("sensor_db", "student_data") }}
-),
+ {{ config(materialized='table') }}
 
-finals as (
-    select * from student_data
-)
+with source_sensor_data as (
+     select L4_station_ID
+     from {{ source('sensor_data','Lane_4_table') }} 
+     where flow_1=0 and flow_2=0 and flow_3=0 and flow_4=0
+ ),
 
-select * from final
+
+ final as (
+     select * from source_sensor_data
+ )
+
+ select * from final
