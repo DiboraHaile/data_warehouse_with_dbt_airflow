@@ -65,17 +65,19 @@ This project attempts to produce a tool that can be used as a basis for Data War
 This project attempts to produce a tool that can be used as a basis for Data WareHouse needs. It will utilize an ELT pipeline to load and transform data from the Warehouse. It will also create a dynamic dashboard for visualizing the data. To achieve these tasks, DBT will be used for transforming the data, AirFlow to automate the process and Redash for Reporting. 
 
 Here's What this module can do:
-* Perform 
-* and here
-* ...
+* Extract and Load Dataset to MySQL Database using airflow
+* Transform the stored data using DBT
+* Visualize Data using Redash
 
 A list of commonly used resources that we find helpful are listed in the acknowledgements.
 
 ### Built With
 
-Resoures that used in this project are :
-* 
-* 
+Resoures that are used in this project are :
+* MySQL
+* Airflow
+* DBT
+* Redash
 
 
 
